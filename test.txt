@@ -1,2 +1,2 @@
 Hello this is fellowship!
-Addintion One more line in Git
+Adding One more line in Git
